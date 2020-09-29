@@ -81,6 +81,7 @@ Votre programme doit pouvoir traiter correctement n’importe quel graphe qui r�
 - Graphe valué – Valeurs numériques entières quelconques (valeurs négatives admises, valeur ‘0’ admise)
 - Sommets représentés par des nombre entiers, de ‘0’ à ‘nombre de sommets moins 1’
 - Au plus un arc d’un sommet x vers un sommet y.
+
 Votre programme ne doit imposer aucune limite pour le nombre de sommets, ni pour les valeurs des arcs, ni pour le
 nombre d’arcs.
 
@@ -98,4 +99,5 @@ constitution des équipes, sans possibilité de modification.
 
 Problèmes éventuels : S’il y a problème au niveau d’une équipe (un élève qui ne participe pas au travail des
 autres, un élève malade, etc…), vous êtes tenus d’en informer votre enseignant immédiatement.
+
 **Aucune modification d’équipe sans l’aval direct de l’enseignant ne sera acceptée.**
