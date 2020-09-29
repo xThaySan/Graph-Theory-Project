@@ -86,7 +86,7 @@ Votre programme ne doit imposer aucune limite pour le nombre de sommets, ni pour
 nombre d’arcs.
 
 ## DEROULEMENT DU PROJET
-###### onstitution des équipes:
+###### Constitution des équipes:
 
 Nombre d’équipes par groupe TD/TP : 12
 Le nombre d’étudiants par équipe sera calculé en fonction du nombre d’étudiants dans chaque
@@ -177,3 +177,23 @@ propre structure aux conditions suivantes :
 - la structure du fichier doit être simple, facilement compréhensible ;
 - le graphe représenté dans le fichier doit pouvoir être modifié directement dans le fichier, de façon extrêmement
 simple (par exemple pour ajouter ou supprimer un arc, ou pour changer la valeur d’un arc).
+
+Votre fichier peut, par exemple, avoir la structure suivante :
+- Ligne 1 Nombre de sommets
+- Ligne 2 Nombre d’arcs
+- Lignes 3 à 3 + « nombre d’arcs » Extrémité initiale, suivie de l’extrémité terminale, suivie de la
+valeur de l’arc
+
+Avec ce modèle de fichier, s’il contient le texte suivant :
+```
+4
+5
+3 1 25
+1 0 12
+2 0 -5
+0 1 0
+2 1 7
+```
+
+cela correspond à un graphe contenant 4 sommets numérotés de 0 à 3 (numérotation contiguë), et 5 arcs (3,1),
+(1,0), (2,0), (0,1), (2,1) de valeurs respectives 25, 12, -5, 0 et 7.
