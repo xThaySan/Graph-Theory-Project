@@ -64,6 +64,7 @@ absorbant.
 
 Si aucun circuit absorbant n’est présent, le dernier traitement consiste à afficher les chemins de valeurs
 minimales. Vous pouvez les afficher tous, ou prévoir une boucle d’interface avec l’utilisateur :
+```
     Chemin ?
     Si oui alors
         Sommet de départ ?
@@ -71,5 +72,6 @@ minimales. Vous pouvez les afficher tous, ou prévoir une boucle d’interface a
         Affichage du chemin
         Recommencer
     Si non alors arrêter
+```
 
 ## GRAPHES A PRENDRE EN COMPTE
