@@ -86,7 +86,8 @@ Votre programme ne doit imposer aucune limite pour le nombre de sommets, ni pour
 nombre d’arcs.
 
 ## DEROULEMENT DU PROJET
-**Constitution des équipes**
+**Constitution des équipes:**
+
 Nombre d’équipes par groupe TD/TP : 12
 Le nombre d’étudiants par équipe sera calculé en fonction du nombre d’étudiants dans chaque
 groupe TD/TP. Votre enseignant vous l’indiquera par voie d’annonce sur Moodle dans les jours qui
@@ -101,3 +102,35 @@ Problèmes éventuels : S’il y a problème au niveau d’une équipe (un élè
 autres, un élève malade, etc…), vous êtes tenus d’en informer votre enseignant immédiatement.
 
 **Aucune modification d’équipe sans l’aval direct de l’enseignant ne sera acceptée.**
+
+**Langage de programmation:**
+
+Au choix : C, C++, Python, Java
+Le langage choisi doit cependant être suffisamment maîtrisé par tous les membres d’une même équipe afin
+que tous puissent participer. Durant la soutenance, votre enseignant pourra poser n’importe quelle question
+à n’importe quel membre de l’équipe, qu’il participe à l’élaboration de la partie du programme concerné ou
+non
+
+Votre programme doit pouvoir être compilé / exécuté par votre enseignant, sur son PC. Il vous indiquera ce
+dont il dispose. Vous devrez vous y adapter.
+
+**Soutenance:**
+
+Présentation + démonstration de votre programme (les conditions précises vous seront indiquées
+ultérieurement) + questions/réponses.
+Il n’est pas encore décidé si les soutenances se feront en présentiel ou visioconférence.
+
+Les soutenances ont une durée limitée. Votre enseignant à un planning très serré. Il ne pourra pas continuer
+les soutenances après le créneau horaire prévu.
+Il vous est donc vivement conseillé d’être vraiment prêt à l’heure du début de votre soutenance, ce qui
+implique (au cas où une soutenance physique a lieu) :
+- attendre « à la porte de la salle » et « entrer » dès que c’est à votre tour ;
+- avoir préparé votre ordinateur, y avoir inclus tous vos programmes et fichiers contenant les
+graphes ;
+- avoir vérifié le chargement de la batterie de l’ordinateur ;
+- l’avoir démarré et mis en mode veille ;
+- avoir un ordinateur de secours sur lequel vous avez aussi vérifié le bon fonctionnement de votre
+programme, au cas où…
+
+Tous les ans, il y a plein d’étudiants qui pensent ne jamais avoir de problème. Tous les ans, il y en a
+qui en ont. Résultat : ils sont stressés et ont moins de temps pour leur soutenance. Dommage…
