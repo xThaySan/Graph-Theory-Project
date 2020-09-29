@@ -75,3 +75,27 @@ minimales. Vous pouvez les afficher tous, ou prévoir une boucle d’interface a
 ```
 
 ## GRAPHES A PRENDRE EN COMPTE
+
+Votre programme doit pouvoir traiter correctement n’importe quel graphe qui répond aux critères ci-dessous :
+- Graphe orienté
+- Graphe valué – Valeurs numériques entières quelconques (valeurs négatives admises, valeur ‘0’ admise)
+- Sommets représentés par des nombre entiers, de ‘0’ à ‘nombre de sommets moins 1’
+- Au plus un arc d’un sommet x vers un sommet y.
+Votre programme ne doit imposer aucune limite pour le nombre de sommets, ni pour les valeurs des arcs, ni pour le
+nombre d’arcs.
+
+## DEROULEMENT DU PROJET
+**Constitution des équipes**
+Nombre d’équipes par groupe TD/TP : 12
+Le nombre d’étudiants par équipe sera calculé en fonction du nombre d’étudiants dans chaque
+groupe TD/TP. Votre enseignant vous l’indiquera par voie d’annonce sur Moodle dans les jours qui
+suivent.
+
+Constitution des équipes : à remettre à votre enseignant au plus tard à la date qu’il vous indiquera.
+Aucun changement ne sera possible après cette date. A défaut d’une constitution des équipes
+fournie par les délégués de chaque groupe TD, les enseignants pourront décider eux-mêmes de la
+constitution des équipes, sans possibilité de modification.
+
+Problèmes éventuels : S’il y a problème au niveau d’une équipe (un élève qui ne participe pas au travail des
+autres, un élève malade, etc…), vous êtes tenus d’en informer votre enseignant immédiatement.
+**Aucune modification d’équipe sans l’aval direct de l’enseignant ne sera acceptée.**
