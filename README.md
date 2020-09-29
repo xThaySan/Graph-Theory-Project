@@ -86,7 +86,7 @@ Votre programme ne doit imposer aucune limite pour le nombre de sommets, ni pour
 nombre d’arcs.
 
 ## DEROULEMENT DU PROJET
-**Constitution des équipes:**
+###### onstitution des équipes:
 
 Nombre d’équipes par groupe TD/TP : 12
 Le nombre d’étudiants par équipe sera calculé en fonction du nombre d’étudiants dans chaque
@@ -103,7 +103,7 @@ autres, un élève malade, etc…), vous êtes tenus d’en informer votre ensei
 
 **Aucune modification d’équipe sans l’aval direct de l’enseignant ne sera acceptée.**
 
-**Langage de programmation:**
+###### Langage de programmation:
 
 Au choix : C, C++, Python, Java
 Le langage choisi doit cependant être suffisamment maîtrisé par tous les membres d’une même équipe afin
@@ -114,7 +114,7 @@ non
 Votre programme doit pouvoir être compilé / exécuté par votre enseignant, sur son PC. Il vous indiquera ce
 dont il dispose. Vous devrez vous y adapter.
 
-**Soutenance:**
+###### Soutenance:
 
 Présentation + démonstration de votre programme (les conditions précises vous seront indiquées
 ultérieurement) + questions/réponses.
@@ -134,3 +134,46 @@ programme, au cas où…
 
 Tous les ans, il y a plein d’étudiants qui pensent ne jamais avoir de problème. Tous les ans, il y en a
 qui en ont. Résultat : ils sont stressés et ont moins de temps pour leur soutenance. Dommage…
+
+###### Graphes de test:
+
+Des graphes de test vous seront fournis avant la soutenance sous forme graphique, dans un délai suffisant
+pour vous permettre de les coder par des fichiers .txt au format que vous aurez choisi. Ces fichiers devront
+impérativement être préparés à l’avance, et ils feront partie du rendu. Ils doivent être disponibles sur votre
+ordinateur au moment de la soutenance.
+
+N’attendez pas ces graphes pour tester votre programme ! Il serait alors trop tard.
+
+N’hésitez pas pendant votre développement à utiliser tous les graphes vus en cours et travaux dirigés, et
+bien d’autres encore. Plus vous ferez de tests, plus vous pourrez être certains que votre programme
+fonctionne correctement.
+
+###### Rendu du travail:
+
+Toutes les équipes devront remettre leur travail à leur enseignant à la même date. Des consignes vous
+seront communiquées ultérieurement.
+Le contenu du rendu :
+- Code source : Tout fichier code que vous avez tapé vous-même à l’exclusion de tout autre fichier
+(donc aucun fichier produit par le logiciel durant la compilation ou exécution), bien commenté.
+Tous les ans, il y a des équipes qui ne respectent pas cette consigne et qui ont des points de
+pénalité à cause de cette négligence. Essayez de l’éviter.
+- Tous les fichiers .txt des graphes de test (oui, malgré le fait que ce sont vos enseignants qui vous ont
+fourni les graphes de test), dans le même répertoire que le code.
+- Un ppt ou pdf de la présentation (facultatif : vous pouvez le joindre au rendu de votre travail si vous
+l’avez déjà, mais vous serez autorisés à le modifier jusqu’à votre soutenance).
+- Les traces d’exécution sous forme d’un fichier .txt. Vous devrez exécuter votre programme sur
+l’intégralité des graphes de test mentionnés ci-dessus et fournir les traces d’exécution
+correspondantes.
+**Un graphe non testé, ou pour lequel les traces d’exécution ne seront pas fournies, sera considéré
+comme un graphe sur lequel votre programme ne fonctionne pas correctement.**
+
+Tout fichier que vous utilisez (et transmettrez à votre enseignant) doit être préfixé par votre numéro
+d’équipe : par exemple, si vous avez un fichier « main » et si vous utiliser le langage C++, et que vous êtes
+dans l’équipe B2, ce fichier doit avoir le nom B2-main.cpp (ou B2_main.cpp)
+
+###### Annexe – Exemple de fichier permettant de représenter un graphe:
+**Important :** Cette annexe ne contient qu’un exemple de structure de fichier. Vous avez le droit de décider de votre
+propre structure aux conditions suivantes :
+- la structure du fichier doit être simple, facilement compréhensible ;
+- le graphe représenté dans le fichier doit pouvoir être modifié directement dans le fichier, de façon extrêmement
+simple (par exemple pour ajouter ou supprimer un arc, ou pour changer la valeur d’un arc).
