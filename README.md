@@ -25,4 +25,4 @@ ces graphes de test : il doit marcher sur n’importe quel graphe
 
 ## TRAVAIL A REALISER
 *Illustration :*
-![illustration de l'algorithme](../blob/master/img/illustration.PNG?raw=true)
+![illustration de l'algorithme](../master/img/illustration.PNG?raw=true)
